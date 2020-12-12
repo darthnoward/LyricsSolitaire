@@ -8,9 +8,9 @@ a script that takes in a line of Chinese traditional lyrics as input and gives o
 
 ## Sample outputs
 
-[image1](assets/sample1.jpg)
+![image1](assets/sample1.jpg)
 
-[image2](assets/sample2.jpg)
+![image2](assets/sample2.jpg)
 
 ## The Benefits
 
